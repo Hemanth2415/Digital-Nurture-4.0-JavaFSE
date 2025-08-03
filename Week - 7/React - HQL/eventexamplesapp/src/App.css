@@ -1,0 +1,54 @@
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.counter {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-width: 150px;
+  margin-bottom: 30px;
+}
+
+.button-group button {
+  padding: 5px;
+}
+
+.title {
+  color: green;
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.currency-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 300px;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+label {
+  width: 80px;
+}
+
+input, textarea {
+  width: 150px;
+}
+
+button[type="submit"] {
+  width: 100px;
+  padding: 5px;
+}

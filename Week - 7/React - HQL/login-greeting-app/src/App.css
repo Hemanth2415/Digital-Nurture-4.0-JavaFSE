@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+  margin-top: 20%;
+  font-family: 'Arial', sans-serif;
+}
+
+.black-text {
+  color: black;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
